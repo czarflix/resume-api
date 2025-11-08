@@ -6,3 +6,4 @@ aiofiles
 PyMuPDF
 python-docx
 reportlab
+python-multipart
